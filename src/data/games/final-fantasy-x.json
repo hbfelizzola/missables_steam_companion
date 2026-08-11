@@ -1,0 +1,5150 @@
+{
+  "id": "final-fantasy-x",
+  "title": "Final Fantasy X / X-2 HD Remaster",
+  "shortTitle": "FF X",
+  "steamAppId": 359870,
+  "source": {
+    "title": "FFX - Missable & Optional Content",
+    "author": "Abyss",
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3044396628",
+    "note": "Bundled for offline use. All credit to the original guide author."
+  },
+  "sessions": [
+    {
+      "id": "ffx-introduction",
+      "title": "FFX: Introduction",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Self esteem booster"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Remember to give it a thumbs up and favorite if it helped you, I need that stuff for self validation :)"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Save Slots"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Use them. That's it... this section's only purpose is the first -and last- friendly reminder that this game loves you and is giving you enough save slots for an entire household to play it multiple teams each, so the least you can do is use them. Also, do try to prioritize the missables over anything else, this will save you headaches having to reload any of the aforementioned backups."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Missables"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "They are all marked with a ⚠ to at the beginning of the entry to keep things simple."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sphere Grid"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "I recommend the Standard Sphere Grid but the choice is ultimately yours. You should be able to beat everything with either one regardless of difficulty."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Standard"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "860 nodes, with 85 unremovable nodes and 775 manipulable nodes. Allows you to have overall superior stats during the endgame but everyone follows their intended job path for the main story."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Expert"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "805 nodes with 85 unremovable nodes and 720 manipulable nodes. Allows you to quickly customize your characters to your exact needs during the main story since everyone shares starting point and there are less obstructions in the Grid, but there are also less nodes to customize during the endgame."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cheats"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "This game has built-in cheats that can be accessed by pressing ESC on the keyboard. I only mention this since controller players may never find them and have no way of using them naturally unless installing the Untitled Project X mod."
+            }
+          ]
+        }
+      ],
+      "itemCount": 0
+    },
+    {
+      "id": "ruins",
+      "title": "Ruins",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "ruins-001",
+          "title": "Extra",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Extra: Head Northwest in the \\[Submerged Ruins\\] to use the Al Bhed Compilation Sphere if you have collected the Primers during another playthrough and would like to import them to this one."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 1
+    },
+    {
+      "id": "salvage-ship",
+      "title": "Salvage Ship",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "This is a one time area."
+        },
+        {
+          "type": "item",
+          "id": "salvage-ship-001",
+          "title": "Al Bhed Primer (vol. I)",
+          "optional": false,
+          "missable": true,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Al Bhed Primer (vol. I): Top right corner of the ship, to the right of the Save Sphere."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 1
+    },
+    {
+      "id": "besaid",
+      "title": "Besaid",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "besaid-001",
+          "title": "Item (Moon Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Moon Crest): Swim east of your starting point to find and open a chest we will need for later."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-002",
+          "title": "One Time Area",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "One Time Area: The small area you swim through with Wakka after he pushes you cannot be revisited so you may wanna grab the three chests underwater and swim to your hearts content before advancing."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "The chests contain a Phoenix Down, Hi-Potion and 2 Antidotes."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "besaid-003",
+          "title": "Al Bhed Primer (vol. II)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. II): By the entrance of the Crusaders Lounge hidden by Luzzu (the man with the read hair)."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-004",
+          "title": "Overdrive (Energy Blast)",
+          "optional": false,
+          "missable": false,
+          "category": "Overdrive",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Overdrive (Energy Blast): Talk to the Item Shop Owner after Yuna joins the party, then find her dog in one of the tents on the right side of the village until you get Valefor's Overdrive."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "item",
+          "id": "besaid-005",
+          "title": "1. Examine the wall in front of you.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Examine the wall in front of you."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-006",
+          "title": "2. Touch the Glyph on the right wall and go downstairs.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Touch the Glyph on the right wall and go downstairs."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-007",
+          "title": "3. Take the Glyph Sphere from the wall on the stairway.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Take the Glyph Sphere from the wall on the stairway."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-008",
+          "title": "4. Place the Glyph Sphere on the door at the bottom of the stairs a…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Place the Glyph Sphere on the door at the bottom of the stairs and grab it again."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-009",
+          "title": "5. Place the Glyph Sphere on the hole in the left wall and ignore t…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Place the Glyph Sphere on the hole in the left wall and ignore the Destruction Sphere for now."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-010",
+          "title": "6. Continue your path through the hallway and touch the symbols on…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Continue your path through the hallway and touch the symbols on the right wall in front of the pedestal."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-011",
+          "title": "7. Take the Besaid Sphere and insert it on the pedestal behind us.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Take the Besaid Sphere and insert it on the pedestal behind us."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-012",
+          "title": "8. Take the Destruction Sphere and place it in the wall where we pi…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Take the Destruction Sphere and place it in the wall where we picked up the Besaid Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-013",
+          "title": "9. Grab the Rod of Wisdom from the chest.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Grab the Rod of Wisdom from the chest."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "besaid-014",
+          "title": "10. Move the pedestal with the Besaid Sphere forward until it click…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "10. Move the pedestal with the Besaid Sphere forward until it clicks in place."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 14
+    },
+    {
+      "id": "s-s-liki",
+      "title": "S.S. Liki",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "s-s-liki-001",
+          "title": "Sidequest (O'aka XIII)",
+          "optional": false,
+          "missable": false,
+          "category": "Sidequest",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sidequest (O'aka XIII): Donate as much Gil as you feel like when you meet O'aka downstairs, our end goal is to donate over 10,001 Gil before certain point in the game."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "s-s-liki-002",
+          "title": "Al Bhed Primer (vol. III)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. III): Grab it on the bottom right corner of the Engine Room."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 2
+    },
+    {
+      "id": "kilika",
+      "title": "Kilika",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "kilika-001",
+          "title": "Al Bhed Primer (vol. IV)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. IV): Pick it up from the table inside the hut to the left of Wakka after you wake up."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-002",
+          "title": "Optional Boss (Lord Ochu)",
+          "optional": false,
+          "missable": false,
+          "category": "Optional Boss",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Optional Boss (Lord Ochu): Approach the large Ochu instead of walking around it."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "item",
+          "id": "kilika-003",
+          "title": "1. Take the Kilika Sphere from the pedestal, place it on the door,…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Take the Kilika Sphere from the pedestal, place it on the door, remove it and move to the next room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-004",
+          "title": "2. Place the Kilika Sphere on the recess on the back wall and then…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Place the Kilika Sphere on the recess on the back wall and then remove it."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-005",
+          "title": "3. Place the Kilika Sphere on the recess on the right wall.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Place the Kilika Sphere on the recess on the right wall."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-006",
+          "title": "4. Touch the Glyph on the back wall and enter the next room.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Touch the Glyph on the back wall and enter the next room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-007",
+          "title": "5. Take the Kilika Sphere from the right wall and place it in the l…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Take the Kilika Sphere from the right wall and place it in the left wall from the previous room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-008",
+          "title": "6. Step on the switch on the right side of the fire room.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Step on the switch on the right side of the fire room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-009",
+          "title": "7. Take the Glyph Sphere from the pedestal, put it in the right wal…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Take the Glyph Sphere from the pedestal, put it in the right wall and ignore the Destruction Sphere for now."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-010",
+          "title": "8. Take any Kilika Sphere from the previous room, place it on the p…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Take any Kilika Sphere from the previous room, place it on the pedestal and move the pedestal to the switch."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-011",
+          "title": "9. Take the Kilika Sphere from the wall revealed last step, then in…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Take the Kilika Sphere from the wall revealed last step, then insert it on the door at the back of the room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-012",
+          "title": "10. Take the Destruction Sphere and place it in the wall revealed i…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "10. Take the Destruction Sphere and place it in the wall revealed in step 8."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-013",
+          "title": "11. Grab the Red Armlet from the chest",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "11. Grab the Red Armlet from the chest"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "kilika-014",
+          "title": "12. Take the Kilika Sphere from the door at the back of the room.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "12. Take the Kilika Sphere from the door at the back of the room."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 14
+    },
+    {
+      "id": "s-s-winno",
+      "title": "S.S. Winno",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "s-s-winno-001",
+          "title": "Sidequest (O'aka)",
+          "optional": false,
+          "missable": false,
+          "category": "Sidequest",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sidequest (O'aka): Contribute as much as you can towards our goal of +10,001 Gil in donations."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "s-s-winno-002",
+          "title": "Al Bhed Primer (vol. V)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. V): Grab it from behind the captain on the ground at Bridge."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "s-s-winno-003",
+          "title": "Tidus (Jecht Shot)",
+          "optional": false,
+          "missable": false,
+          "category": "Tidus",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Tidus (Jecht Shot): Beat the mini-game when prompted."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "You may wanna save beforehand, supposedly we could learn this later if we fail here, but there's no reason to delay it."
+            }
+          ]
+        }
+      ],
+      "itemCount": 3
+    },
+    {
+      "id": "luca",
+      "title": "Luca",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "luca-001",
+          "title": "Al Bhed Primer (vol. VI)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. VI): Take the left door from the Stadium's Main Gate to grab the volume behind the two players in green at Basement B."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "luca-002",
+          "title": "Sidequest (O'aka)",
+          "optional": false,
+          "missable": false,
+          "category": "Sidequest",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sidequest (O'aka): He is located at the Number 1 Dock if you wanna donate some more."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "luca-003",
+          "title": "Al Bhed Primer (vol. VII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. VII): At the bottom of the stairs in Luca's Theater."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "luca-004",
+          "title": "Minigame (Blitzball)",
+          "optional": false,
+          "missable": false,
+          "category": "Minigame",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Minigame (Blitzball): You get rewarded with a Strength Sphere if you win."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Having Tidus participate in as many plays as possible so he levels up for the second half is vital if you intend to win, score a single goal and then just waste time, otherwise you will most likely end up losing if you keep challenging the Goers directly."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "luca-005",
+          "title": "Item (Jupiter Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Jupiter Crest): Check the lockers on the right side at \\[Stadium - Locker Room\\] once the story events are done and the party is ready to head to Mi'ihen Highroad."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 5
+    },
+    {
+      "id": "mi-ihen-highroad",
+      "title": "Mi'ihen Highroad",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-001",
+          "title": "Optional Boss (Belgemine)",
+          "optional": false,
+          "missable": false,
+          "category": "Optional Boss",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Optional Boss (Belgemine): Talk to the lady in green at the top right corner of the South End area and accept her Pokemon fight."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-002",
+          "title": "Kimahri (Fire Breath)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Fire Breath): Use Lancet on Dual Horn."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-003",
+          "title": "Kimahri (Self-Destruct)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Self-Destruct): Use Lancet on Bomb."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-004",
+          "title": "Al Bhed Primer (vol. VIII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. VIII): You will get this one automatically shortly after a boss fight, don't worry about it."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-005",
+          "title": "Al Bhed Primer (vol. IX)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. IX): On the ground almost at the end of Newroad - North."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-006",
+          "title": "Sidequest (O'aka XXIII)",
+          "optional": false,
+          "missable": true,
+          "category": "Sidequest",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Sidequest (O'aka XXIII): Take a right once you reach the North End area and go south towards Oldroad - North. Continue to go south until you find O'aka and make sure to donate above 10,001 Gil."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "bold",
+              "text": "IMPORTANT:"
+            },
+            {
+              "type": "text",
+              "text": "This is your last chance to do this."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "mi-ihen-highroad-007",
+          "title": "Item (Mars Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Mars Crest): Continue to go south from where you met O'aka until you find a chest with this item we will use later."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 7
+    },
+    {
+      "id": "mushroom-rock",
+      "title": "Mushroom Rock",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Both the Ridge and Aftermath are one time areas."
+        },
+        {
+          "type": "item",
+          "id": "mushroom-rock-001",
+          "title": "Al Bhed Primer (vol. X)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. X): On the left side of the Precipice area just before the elevator that takes you to the save spot where Luzzu is."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 1
+    },
+    {
+      "id": "djose-highroad",
+      "title": "Djose Highroad",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "djose-highroad-001",
+          "title": "Kimahri (Stone Breath)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Stone Breath): Use Lancet on Basilisk."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-002",
+          "title": "Al Bhed Primer (vol. XI)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XI): Behind a rock pillar to the right side after the first chest in the area."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-003",
+          "title": "Item (Halberd)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Halberd): Speak to the purple guard on the bridge before leaving for Moonflow."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-004",
+          "title": "1. Take both Djose Spheres from the wall and place them on the door.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Take both Djose Spheres from the wall and place them on the door."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-005",
+          "title": "2. Take both Djose Spheres from the wall and place them on the rece…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Take both Djose Spheres from the wall and place them on the recess the east side of the room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-006",
+          "title": "3. Push the pedestal to the charging station that got powered up on…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Push the pedestal to the charging station that got powered up on the east side of the room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-007",
+          "title": "4. Reset the pedestal using the platform on the west side, grab the…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Reset the pedestal using the platform on the west side, grab the charged Djose Sphere and place it on the right recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-008",
+          "title": "5. Take both Djose Spheres from the wall again and place them on th…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Take both Djose Spheres from the wall again and place them on the pedestal, then push the pedestal to the electrified pit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-009",
+          "title": "6. Jump across the electrified pit and push the platform against th…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Jump across the electrified pit and push the platform against the wall."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-010",
+          "title": "7. Reset the pedestal again and take both Djose Spheres back to the…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Reset the pedestal again and take both Djose Spheres back to the recesses on the first room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-011",
+          "title": "8. Take the charged Djose Sphere, place it on the recess to the lef…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Take the charged Djose Sphere, place it on the recess to the left of the pedestal and take the elevator."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-012",
+          "title": "9. Push the five pedestals against the wall, take the elevator down…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Push the five pedestals against the wall, take the elevator down and touch the glyph on the wall next to the reset platform we used before."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-013",
+          "title": "10. Take the Destruction Sphere to the pedestal on the second floor.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "10. Take the Destruction Sphere to the pedestal on the second floor."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "djose-highroad-014",
+          "title": "11. Grab the Magic Sphere from the chest.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "11. Grab the Magic Sphere from the chest."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 14
+    },
+    {
+      "id": "moonflow",
+      "title": "Moonflow",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "moonflow-001",
+          "title": "Optional Boss (Belgemine)",
+          "optional": false,
+          "missable": false,
+          "category": "Optional Boss",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Optional Boss (Belgemine): On the path at South Bank Road."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "moonflow-002",
+          "title": "Item (Snakehead)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Snakehead): Purchase from O'aka at South Wharf."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "moonflow-003",
+          "title": "Al Bhed Primer (vol. XII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XII): Exit left from the Save Sphere at the North Wharf."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 3
+    },
+    {
+      "id": "guadosalam",
+      "title": "Guadosalam",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "guadosalam-001",
+          "title": "Al Bhed Primer (vol. XIII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XIII): Inside the house on the west side."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "guadosalam-002",
+          "title": "Item (Venus Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Venus Crest): Enter the Farplane again once the party is ready to go to the Thunder Plains."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 2
+    },
+    {
+      "id": "thunder-plains",
+      "title": "Thunder Plains",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "thunder-plains-001",
+          "title": "Al Bhed Primer (vol. XIV)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XIV): Inside the Agency, talk to Rikku and then to Rin when he shows up."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "thunder-plains-002",
+          "title": "Item (Venus Sigil)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Venus Sigil): Dodge 200 lightning bolts in a row, yes, really."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "It's actually quite easy when you know where to stand, position yourself at the first Save Sphere in Thunder Plains - South, you will see four lightning rods in the distance, one to the left and three to the right. There is a small crater behind the left one where lightning will always hit twice with a long way followed by a short one. Enable no encounters and get ready to count."
+            }
+          ]
+        }
+      ],
+      "itemCount": 2
+    },
+    {
+      "id": "macalania",
+      "title": "Macalania",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Macalania Woods"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "macalania-001",
+          "title": "Kimahri (Aqua Breath)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Aqua Breath): Use Lancet on Chimera Brain."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-002",
+          "title": "Note",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: The Saturn Sigil cannot be obtained at this point even if you beat the butterfly minigame, we will come back later so save your time."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-003",
+          "title": "Al Bhed Primer (vol. XV)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XV): To the right of O'aka at \\[Macalania Woods - Lake Road\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-004",
+          "title": "Note",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: Several Jecht Spheres spawn across Spira after you are introduced to the concept, watching them is needed to unlock Auron's Overdrives."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "At this point you could make it all the way back to \\[Besaid\\] on foot (and boat... and Shoopuf), or wait until the endgame. BUT, if you wait, some of them are going to be locked behind complicated boss fights so have fun with all the cardio! Refer to the \"Overdrives\" section of this guide for more info. Lake Macalania"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "macalania-005",
+          "title": "Extra",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Extra: Suggest for Clasko to become a Chocobo Breeder for a Friend Sphere at S.S. Liki by the endgame."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-006",
+          "title": "Al Bhed Primer (vol. XVI)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XVI): Right outside the Agency."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-007",
+          "title": "Item (Longsword)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Longsword): You can only buy this weapon at the Agency before advancing the story."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "item",
+          "id": "macalania-008",
+          "title": "1. Take the Glyph Sphere from the pillar, place it on the pedestal…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Take the Glyph Sphere from the pillar, place it on the pedestal and push it east towards the ice."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-009",
+          "title": "2. Push the pedestal north and head down.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Push the pedestal north and head down."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-010",
+          "title": "3. Take the Glyph Sphere from the pedestal and place it on leftmost…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Take the Glyph Sphere from the pedestal and place it on leftmost recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-011",
+          "title": "4. Take the Macalania Sphere that emerged upstairs and place it on…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Take the Macalania Sphere that emerged upstairs and place it on the pillar downstairs."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-012",
+          "title": "5. Head upstairs and take the rightmost Macalania Sphere, then plac…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Head upstairs and take the rightmost Macalania Sphere, then place it on the pedestal downstairs and push it east."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-013",
+          "title": "6. Head upstairs and take the last Macalania Sphere from the recess…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Head upstairs and take the last Macalania Sphere from the recess on the wall and place it on the final pillar."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-014",
+          "title": "7. Reset the pedestal using the platform on the ice bridge, take th…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Reset the pedestal using the platform on the ice bridge, take the Macalania Sphere and push the pedestal downstairs."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-015",
+          "title": "8. Place the Macalania Sphere on either recess on the middle floor,…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Place the Macalania Sphere on either recess on the middle floor, and then do the same for the one in the pillar."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-016",
+          "title": "9. Reset the pedestal using the platform near the pillars, then pus…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Reset the pedestal using the platform near the pillars, then push it east and north."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-017",
+          "title": "10. Head downstairs, take the Destruction Sphere and place it on th…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "10. Head downstairs, take the Destruction Sphere and place it on the empty recess on the wall."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-018",
+          "title": "11. Take the Luck Sphere from the chest.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "11. Take the Luck Sphere from the chest."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "macalania-019",
+          "title": "12. Repeat steps 5 to 8 and leave.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "12. Repeat steps 5 to 8 and leave."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 19
+    },
+    {
+      "id": "sanubia-desert",
+      "title": "Sanubia Desert",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "sanubia-desert-001",
+          "title": "Al Bhed Primer (vol. XVII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XVII): Take the path Northwest from the Save Sphere at Sanubia Desert - Central."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "sanubia-desert-002",
+          "title": "Al Bhed Primer (vol. XVIII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XVIII): Head north from the Save Sphere at Sanubia Desert - Central."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "sanubia-desert-003",
+          "title": "Item (Mercury Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Mercury Crest): Hug the left wall on Sanubia Desert - West and open the chest in the hole."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 3
+    },
+    {
+      "id": "home",
+      "title": "Home",
+      "warning": "This is a one time area and portions of it become inaccessible as you advance.",
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "bold",
+              "text": "This is a one time area and portions of it become inaccessible as you advance."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "home-001",
+          "title": "Al Bhed Primer (vol. XIX)",
+          "optional": false,
+          "missable": true,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Al Bhed Primer (vol. XIX): As soon as you can move head left before the Save Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "home-002",
+          "title": "Al Bhed Primer (vol. XX)",
+          "optional": false,
+          "missable": true,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Al Bhed Primer (vol. XX): At the living quarters on top of a bed, take a left at Home - Main Corridor before going down the stairs."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "home-003",
+          "title": "Al Bhed Primer (vol. XXI)",
+          "optional": false,
+          "missable": true,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Al Bhed Primer (vol. XXI): On the east side of the Main Corridor."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 3
+    },
+    {
+      "id": "bevelle",
+      "title": "Bevelle",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "bevelle-001",
+          "title": "Kimahri (Thrust Kick)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Thrust Kick): Use Lancet on YKT-63."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-002",
+          "title": "Al Bhed Primer (vol. XXII)",
+          "optional": false,
+          "missable": true,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Al Bhed Primer (vol. XXII): Right before the Save Sphere at \\[Bevelle - Priests' Passage\\], pretty hard to miss."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-003",
+          "title": "Item (Knight Lance)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Knight Lance): Right at the end of the Cloister of Trials."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-004",
+          "title": "Item (Various)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Various): While playing as Yuna in \\[Bevelle - Via Purifico\\] you can find a Bat Eye which has can drop special weapons for Kimhari and Auron that do not have Piercing."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: There are around 136 unique drop combinations here so it is not feasible to farm them all, especially considering you have limited inventory slots. Thank @Xerphiel for this tip."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Assume the pedestal is always pushed since we can't advance otherwise."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bevelle-005",
+          "title": "1. Take the first left, pick up the Bevelle Sphere, turn back and t…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Take the first left, pick up the Bevelle Sphere, turn back and then left again and place the sphere in the recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-006",
+          "title": "2. Turn back and take the second left to go down, left again, secon…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Turn back and take the second left to go down, left again, second right, pick up the Glyph Sphere and place it on the pedestal."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-007",
+          "title": "3. Take a right twice and place the Bevelle Sphere in the recess.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Take a right twice and place the Bevelle Sphere in the recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-008",
+          "title": "4. Place the Glyph Sphere in the recess in the red wall, pick up th…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Place the Glyph Sphere in the recess in the red wall, pick up the Destruction Sphere and then the Glyph Sphere again, placing both in the pedestal."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-009",
+          "title": "5. Fall, take the third right and place the Destruction Sphere in t…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Fall, take the third right and place the Destruction Sphere in the recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-010",
+          "title": "6. Fall, take a right to go down, pick up the Bevelle Sphere.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Fall, take a right to go down, pick up the Bevelle Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-011",
+          "title": "7. Go up, take a right twice times, push the pedestal and continue…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Go up, take a right twice times, push the pedestal and continue all the way up, then place a Bevelle Sphere in the recess."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bevelle-012",
+          "title": "8. Pick up the HP Sphere from the chest, reset the pedestal and pus…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Pick up the HP Sphere from the chest, reset the pedestal and push it forward to pick up the Knight Lance."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 12
+    },
+    {
+      "id": "calm-lands",
+      "title": "Calm Lands",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "At this point several endgame activities have opened up, however, if we push a biiiit further into the story we can get to the point where they will be much more convenient to do since they will involve a lot less cardio."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-001",
+          "title": "Kimahri (Bad Breath)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Bad Breath): Use Lancet on Malboro."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-002",
+          "title": "Item (Buckler)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Buckler): Sold by the man in the hover."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-003",
+          "title": "Optional Boss (Belgemine)",
+          "optional": false,
+          "missable": false,
+          "category": "Optional Boss",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Optional Boss (Belgemine): Just south of the Save Sphere at \\[Calm Lands - Central\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-004",
+          "title": "Al Bhed Primer (vol. XXIII)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XXIII): From the Save Sphere at Calm Lands - Central all the way west by the ledge."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-005",
+          "title": "Item (Sun Sigil)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Sun Sigil): Talk to the woman riding a chocobo just above the Primer, then train chocobos until you can beat Catcher Chocobo with 0:00.0"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-006",
+          "title": "Item (Rusty Sword)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Rusty Sword): Head down the right path after the boss at \\[Calm Lands - Near Bridge\\] instead of crossing the second bridge, then take a right until you hit a wall and interact with the buried sword."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "calm-lands-007",
+          "title": "Note",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: We could start the monster arena sidequest and get Yojimbo (if you have at least 178,931 Gil and know how to haggle) right now, but again, we are waiting for our ride."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 7
+    },
+    {
+      "id": "remiem-temple",
+      "title": "Remiem Temple",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "To access this area you need to be able to borrow a chocobo from the trainer that you need to beat on Catcher Chocobo, then take your chocobo east of the entrance to the Calm Lands to jump over a gap with a yellow feather on the ground."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "remiem-temple-001",
+          "title": "Al Bhed Primer (vol. XXIV)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XXIV): On the left side of the temple."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "remiem-temple-002",
+          "title": "Item (Cloudy Mirror)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Cloudy Mirror): Ride the chocobo to the right side of the temple and win the race."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "We can officially get started on the Celestial Weapons now, but again, and say it with me, we are waiting for the airship."
+            }
+          ]
+        }
+      ],
+      "itemCount": 2
+    },
+    {
+      "id": "cavern-of-the-stolen-fayth",
+      "title": "Cavern of the Stolen Fayth",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Take the path down from \\[Calm Lands - Near Bridge\\] to reach Gorge Bottom and then one last left from the Save Sphere to reach the location. You may wanna come back to this location later, when you can afford Yojimbo."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "cavern-of-the-stolen-fayth-001",
+          "title": "Kimahri (Doom)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Doom): Use Lancet on Ghost."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "cavern-of-the-stolen-fayth-002",
+          "title": "Al Bhed Primer (vol. XXV)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XXV): To the left of the Save Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "cavern-of-the-stolen-fayth-003",
+          "title": "Aeon (Yojimbo)",
+          "optional": false,
+          "missable": false,
+          "category": "Aeon",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Aeon (Yojimbo): He can be found at the end of this area."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Pick \"To defeat the most powerful of enemies\". Then offer at least 50% of what he is asking + 1 Gil up to three times. His lowest rate of 178,931 Gil but you need to haggle hard for it."
+            }
+          ]
+        }
+      ],
+      "itemCount": 3
+    },
+    {
+      "id": "mt-gagazet",
+      "title": "Mt. Gagazet",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "mt-gagazet-001",
+          "title": "Kimahri (Several)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Several): Use Lancet on both Biran and Yenke, they have the skills below."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Biran: Doom, Self-Destruct, Thrust Kick, Mighty Guard\\*. Yenke: Aqua Breath, Fire Breath, Stone Breath, White Wind\\*. \\*You have to wait for them to use these."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "mt-gagazet-002",
+          "title": "Braska's Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Braska's Sphere: Hug the right wall after the grave dedicated to the summoners that failed the pilgrimage at \\[Gagazet - Mountain Trail\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: This is the last sphere needed for Auron's Overdrives."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "mt-gagazet-003",
+          "title": "NPC (Wantz)",
+          "optional": false,
+          "missable": true,
+          "category": "NPC",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ NPC (Wantz): Make sure to talk to O'aka's brother after the second grave at \\[Gagazet - Mountain Trail\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "mt-gagazet-004",
+          "title": "Item (Saturn Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Saturn Crest): Chest behind the pillars before the Save Sphere at \\[Gagazet - Prominence\\]."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 4
+    },
+    {
+      "id": "zanarkand",
+      "title": "Zanarkand",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "item",
+          "id": "zanarkand-001",
+          "title": "Item (Sun Crest)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Sun Crest): After the Yunalesca boss fight head down the stairs on the north side of the room and open the chest."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Cloister of Trials"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "bold",
+              "text": "\\*sigh\\"
+            },
+            {
+              "type": "text",
+              "text": "* **** this one in particular. Ok, so… we will count the shiny squares from top to bottom and left to right. For example the first room has 9 total."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-002",
+          "title": "1. Touch 2, 5, 7, 8, 9.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Touch 2, 5, 7, 8, 9."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-003",
+          "title": "2. Push the bottom right pedestal before heading to the next room a…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Push the bottom right pedestal before heading to the next room and touch 1, 2, 4, 6, 8, 14, 17."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-004",
+          "title": "3. Push the top right pedestal and touch 1, 2, 3, 4, 8, 10, 14, 16,…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Push the top right pedestal and touch 1, 2, 3, 4, 8, 10, 14, 16, 18."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-005",
+          "title": "4. Push the top left pedestal and touch 1, 3, 4, 6, 10, 13.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Push the top left pedestal and touch 1, 3, 4, 6, 10, 13."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-006",
+          "title": "5. Push the bottom left pedestal and touch 1, 2, 4, 9, 15, 16, 17.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Push the bottom left pedestal and touch 1, 2, 4, 9, 15, 16, 17."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-007",
+          "title": "6. Pick up the Killia Sphere and insert it on the middle left pedes…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Pick up the Killia Sphere and insert it on the middle left pedestal, do the same for the Besaid Sphere on the middle right pedestal."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "bold",
+              "text": "Note"
+            },
+            {
+              "type": "text",
+              "text": ": The Destruction Sphere will be completed later. Destruction Sphere You need to come back after getting the airship."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-008",
+          "title": "1. Touch 1, 5, 6 in the first room.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Touch 1, 5, 6 in the first room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-009",
+          "title": "2. Touch 5, 7, 11, 12 in the second room.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Touch 5, 7, 11, 12 in the second room."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "zanarkand-010",
+          "title": "3. Take the Destruction Sphere and place it on the right recess on…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Take the Destruction Sphere and place it on the right recess on the second room."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 10
+    },
+    {
+      "id": "point-of-no-return-inside-sin",
+      "title": "POINT OF NO RETURN: Inside Sin",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "bold",
+              "text": "⚠ DO NOT PICK \"SIN\" AT THE AIRSHIP IF YOU PLAN TO RECRUIT DURREN FOR BLITZBALL."
+            },
+            {
+              "type": "bold",
+              "text": "Durren can be found outside of \\[Cavern of the Stolen Fayth\\] near the Rusty Sword if you want him to warm up your bench."
+            },
+            {
+              "type": "text",
+              "text": "Last Warning The Save Sphere at \\[Sin - Tower of the Dead\\] is as far as you can make it. I'd suggest to make a secondary save here, go beat the game normally and then have fun with the endgame, otherwise any semblance of difficulty will go out of the window permanently."
+            }
+          ]
+        }
+      ],
+      "itemCount": 0
+    },
+    {
+      "id": "airship",
+      "title": "Airship",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Go grind at the Monster Arena if any of the areas below are too strong. Passwords"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "GODHAND"
+        },
+        {
+          "type": "heading",
+          "text": "VICTORIOUS"
+        },
+        {
+          "type": "heading",
+          "text": "MURASAME"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Coordinates"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "X15, Y42 Sanubia Sands"
+        },
+        {
+          "type": "heading",
+          "text": "X31, Y75 Besaid Falls"
+        },
+        {
+          "type": "heading",
+          "text": "X35, Y57 Mi'ihen Ruins"
+        },
+        {
+          "type": "heading",
+          "text": "X41, Y57 Battle Site"
+        },
+        {
+          "type": "heading",
+          "text": "X14, Y57 Baaj Temple"
+        },
+        {
+          "type": "item",
+          "id": "airship-001",
+          "title": "Item (Various)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Various): You can get a weapon with No Encounter from Geosgaeno at a 50% drop rate."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "airship-002",
+          "title": "Item (Onion Knight)",
+          "optional": false,
+          "missable": false,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Item (Onion Knight): Loot from a treasure chest at X."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "airship-003",
+          "title": "Aeon (Anima)",
+          "optional": false,
+          "missable": false,
+          "category": "Aeon",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Aeon (Anima): To enter the Chamber of the Fayth you need to have used all Destruction Spheres at every Cloister of Trials (this includes Zanarkand which you need to backtrack for) and looted their respective chests."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "X72, Y35 Omega Ruins"
+        },
+        {
+          "type": "item",
+          "id": "airship-004",
+          "title": "Item (Various)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Various): There's a \"secret\" minigame which requires to open all treasure chests across all four groups, but they may randomly contain a Mimic causing you to fail."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "As far as I know there is no trick to circumvent the 1/240 odds you will be fighting against, so make sure to make a separate save if you intend to participate, otherwise the rewards will be permanently lost if you fail."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "airship-005",
+          "title": "Al Bhed Primer (vol. XXVI)",
+          "optional": false,
+          "missable": false,
+          "category": "Al Bhed Primer",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Al Bhed Primer (vol. XXVI): Starting at the Save Sphere turn left, then right at the next fork in the road until you reach a room with four chests in a big circle, the primer is right behind them."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "airship-006",
+          "title": "Kimahri (Nova)",
+          "optional": false,
+          "missable": false,
+          "category": "Kimahri",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kimahri (Nova): Use Lancet on Omega Weapon."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 6
+    },
+    {
+      "id": "monster-arena",
+      "title": "Monster Arena",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Before we get anything started you need to buy Capture weapons for at least your main party. I highly suggest you give Stonestrike to all of them so it carries you through 90% of the monsters, even the ones you are not strong enough to be capturing otherwise without some early grind. Capture 10 of each monster below. Location Monsters Location Monsters Besaid Dingo Condor Water Flan Kilika Dinonix Killer Bee Yellow Element Ragora Mi'Ihen Highroad Mi'ihen Fang Ipira Floating Eye White Element Raldo Vouivre Bomb Dual Horn Mushroom Rock Road Raptor Gandarewa Thunder Flan Red Element Lamashtu Funguar Garuda Djose Road Garm Simurgh Bite Bug Snow Flan Bunnyip Basilisk Ochu Thunder Plains Melusine Aerouge Buer Gold Element Kusariqqu Larva Iron Giant Qactuar Macalania Snow Wolf Iguion Wasp Evil Eye Ice Flan Blue Element Murussu Mafdet Xiphos Chimera Bikanel Sand Wolf Alcyone Mushussu Zu Sand Worm Cactuar Calm Lands Skoll Nebiros Flame Flan Shred Anacondaur Ogre Coeurl Chimera Brain Malboro Stolen Fayth Cavern\\* Yowie Imp Dark Element Nidhogg Thorn Valaha Epaaj Ghost Tonberry Mt. Gagazet Bandersnatch Ahriman Dark Flan Grenade Grat Grendel Bashura Mandragora Behemoth Splasher Achelous Maelspike Inside Sin\\* Exoray Wraith Gemini Gemini Demonolith Great Malboro Barbatos Adamantoise Behemoth King Omega Dungeon\\* Zaurus Floating Death Black Element Halma Puroboros Spirit Machea Master Coeurl Master Tonberry Varuna \\* Refer to their respective sections when heading to these areas. Nemesis Defeat all Area Conquest, Species Conquest and Original monsters to unlock the final fight of the Arena. Gear Prep As we advance make our way through the Arena we want to start buying and customizing the Tetra armor pieces for all our party members. These are bought from Wantz near the entrance of \\[Macalania Woods - South\\] for 100,000 Gil each. Auto-Haste is no negotiable, other than that it's really your choice for the other three slots."
+            },
+            {
+              "type": "bold",
+              "text": "Note"
+            },
+            {
+              "type": "text",
+              "text": ": You could get the weapons too if you feel under-prepared, but the Arena will open up the grind for max stats so it's not that important, especially since the Celestial Weapons will make them obsolete \"soon\" enough. Not to mention the initial portion of the Arena requires to use weapons with Capture so... Max Stats Now that we completed the tutorial grind we can get started on the real grind!"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-001",
+          "title": "Standard Grid",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Standard Grid: You can max basically all stats, minus two if you go for Break HP Limit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-002",
+          "title": "Expert Grid",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Expert Grid: You need to min-max, Luck is the best stat in the game."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-003",
+          "title": "255 is the cap for each stat except HP and MP.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "255 is the cap for each stat except HP and MP."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-004",
+          "title": "Stats",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Stats: 255 / 4 = 63.75"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-005",
+          "title": "HP caps at 9,999 and MP at 999\\. These values go up to 99,999 and 9…",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "HP caps at 9,999 and MP at 999\\. These values go up to 99,999 and 9,999 if you break the limit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-006",
+          "title": "HP",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "HP: 99,999 / 300 = 333.33 | 9,999 / 300 = 33.33"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-007",
+          "title": "MP",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "MP: 9,999 / 40 = 249.975 | 999 / 40 = 24.975"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-008",
+          "title": "To keep things simple get everyone Mug and never attack normally ag…",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "To keep things simple get everyone Mug and never attack normally again."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Change Nodes"
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-009",
+          "title": "HP Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "HP Sphere: Ironclad."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-010",
+          "title": "MP Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "MP Sphere: Vidatu."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-011",
+          "title": "Strength Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Strength Sphere: Juggernaut."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-012",
+          "title": "Defense Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Defense Sphere: Tanket."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-013",
+          "title": "Magic Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Magic Sphere: Jumbo Flan."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-014",
+          "title": "Magic Defense Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Magic Defense Sphere: One Eye."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-015",
+          "title": "Agility Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Agility Sphere: Fenrir."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-016",
+          "title": "Luck Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Luck Sphere: Greater Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-017",
+          "title": "Evasion Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Evasion Sphere: Pteryx."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-018",
+          "title": "Accuracy Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Accuracy Sphere: Hornet."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-019",
+          "title": "Clear Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Clear Sphere: Buy."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Activate Nodes"
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-020",
+          "title": "Kottos",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kottos: Use an Extract Skill or Distiller to get 20\\~40 of the respective stat."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-021",
+          "title": "Fortune Sphere",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Fortune Sphere: Earth Eater."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Customize Weapons"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-022",
+          "title": "Stonestrike",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Stonestrike: Petrify Grenade | Steal Jormungand"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-023",
+          "title": "Triple AP",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Triple AP: Wings to Discovery | Kill Shinryu."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-024",
+          "title": "Overdrive > AP",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Overdrive > AP: Door to Tomorrow | Kill Bomb King."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-025",
+          "title": "Triple Overdrive",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Triple Overdrive: Winning Formula | Kill Ultima Buster"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-026",
+          "title": "Gillionaire",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Gillionaire: Designer's Wallet | Kill Catastrophe."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-027",
+          "title": "Break Damage Limit",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Break Damage Limit: Dark Matter | Drop by every Monster"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Armor"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-028",
+          "title": "Auto-Shell",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Shell: Light Curtain | Kill Fafnir."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-029",
+          "title": "Auto-Protect",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Protect: Light Curtain | Kill Fafnir."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-030",
+          "title": "Auto-Reflect",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Reflect: Star Curtain | Steal NEG4\\* Elemental."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-031",
+          "title": "Auto-Haste",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Haste: Chocobo Wings | Steal Cactuar King."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-032",
+          "title": "Auto-Regen",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Regen: Healing Spring | Kill Kotos."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-033",
+          "title": "Auto-Potion",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Potion: Stamina Tablet | Steal Adamantoise."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-034",
+          "title": "Auto-Med",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Med: Remedy | Buy."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-035",
+          "title": "Auto-Phoenix",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Auto-Phoenix: Mega Phoenix | Bribe Ghost."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-036",
+          "title": "Break HP Limit",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Break HP Limit: Wings to Discovery | Kill Shinryu."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-037",
+          "title": "Break MP Limit",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Break MP Limit: Three Stars | Kill Catoblepas."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "monster-arena-038",
+          "title": "Ribbon",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Ribbon: Dark Matter | Every Monster."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\* Dear Steam: This is not the word you think it is..."
+            }
+          ]
+        }
+      ],
+      "itemCount": 38
+    },
+    {
+      "id": "celestial-weapons",
+      "title": "Celestial Weapons",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Celestial Mirror"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "To get started we need to turn the Cloudy Mirror that we got at Remiem Temple into the Celestial Mirror following a tiny questline. Otherwise we won't be able to open any of the weapon chests."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-001",
+          "title": "1. Find the Mother and Son at the entrance of Macalania Woods - Sou…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Find the Mother and Son at the entrance of Macalania Woods - South to the right of the Save Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-002",
+          "title": "2. Take a right twice and then head up to find the Husband at Macal…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Take a right twice and then head up to find the Husband at Macalania Woods - Campsite. Then go back to the family and exhaust their dialogue like this was a Dark Souls NPC sidequest."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-003",
+          "title": "3. Take the magical shiny path right next to you to find the Son at…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Take the magical shiny path right next to you to find the Son at Macalania Woods - Central and use the Cloudy Mirror to turn it into the Celestial Mirror."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Celestial Weapons"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "You need to take the weapon, crest and sigil to the spot where you obtained the Celestial Mirror."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Auron"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-004",
+          "title": "Masamune",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Masamune: Take the Rusty Sword and head for the Glyph at \\[Mushroom Rock Road\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Land at \\[Djose Highroad\\] (which will actually take you to \\[Mushroom Rock Aftermath\\]) then exit south and hug the left wall until you find a magic elevator, interact with the statue and then the sigil."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-005",
+          "title": "Mars Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Mars Crest: You already got this at \\[Mi'ihen Highroad\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-006",
+          "title": "Mars Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Mars Sigil: You already got this by completing 10 Conquests in the Monster Arena."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Kimahri"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-007",
+          "title": "Spirit Lance",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Spirit Lance: Press Square to pray at three glowing cactuar stones at \\[Thunder Plains\\], then head to \\[Thunder Plains - South\\] and hug the right wall from the Save Sphere and head north until you see a ghost cactuar near a broken lightning rod, pray to it."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-008",
+          "title": "Saturn Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Saturn Crest: You already got this at \\[Mt. Gagazet\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-009",
+          "title": "Saturn Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Saturn Sigil: Beat Butterfly Hunt at \\[Macalania Woods - Central\\] and \\[Macalania Woods - Lake Road\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Rikku"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-010",
+          "title": "Godhand",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Godhand: Use password GODHAND at the Airship."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-011",
+          "title": "Mercury Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Mercury Crest: You already got this at \\[Bikanel Island\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-012",
+          "title": "Mercury Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Mercury Sigil: Complete Village of Cactuars sidequest at \\[Sanubia Desert - West\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "It does not matter if you win any of the games or not, but you get a Friend Sphere if you beat all of them."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-013",
+          "title": "1. Tomay: Next to the Save Sphere at \\[Oasis\\].",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Tomay: Next to the Save Sphere at \\[Oasis\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-014",
+          "title": "2. Rovivea: Hug the west side to find the cactuar by the chest \\[Sa…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Rovivea: Hug the west side to find the cactuar by the chest \\[Sanubia Desert - East\\] ."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-015",
+          "title": "3. Chava: Interact with the west sign at \\[Sanubia Desert - West\\].",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. Chava: Interact with the west sign at \\[Sanubia Desert - West\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-016",
+          "title": "4. Alek & Aloja: They are together on the northwest side of \\[Sanub…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Alek & Aloja: They are together on the northwest side of \\[Sanubia Desert - Central\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-017",
+          "title": "5. Vachella: Interact with the Save Sphere at \\[Sanubia Desert - Ea…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Vachella: Interact with the Save Sphere at \\[Sanubia Desert - East\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-018",
+          "title": "6. Robeya: Inside a chest all the way west at \\[Sanubia Desert - Ce…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Robeya: Inside a chest all the way west at \\[Sanubia Desert - Central\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-019",
+          "title": "7. Isrra: Reload \\[Sanubia Desert - West\\] and towards the moving s…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Isrra: Reload \\[Sanubia Desert - West\\] and towards the moving sands."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-020",
+          "title": "8. Elio: Head to \\[Oasis\\], then use the Save Sphere to go to \\[Air…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Elio: Head to \\[Oasis\\], then use the Save Sphere to go to \\[Airship - Deck\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-021",
+          "title": "9. Flaile: Behind you.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Flaile: Behind you."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Note: Google translate \"Sphere del Perdedor\" :)"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tidus"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-022",
+          "title": "Caladbolg",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Caladbolg: Race Chocobo Trainer then go loot."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-023",
+          "title": "Sun Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sun Crest: You already got this at \\[Zanarkand Ruins\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-024",
+          "title": "Sun Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sun Sigil: You already got this playing Chocobo Catcher at \\[Calm Lands\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Lulu"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-025",
+          "title": "Onion Knight",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Onion Knight: You already got this at \\[Baaj Temple\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-026",
+          "title": "Venus Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Venus Crest: You already got this at \\[Guadosalam\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-027",
+          "title": "Venus Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Venus Sigil: You already got this dodging 200 lightning bolts at \\[Thunder Plains\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Wakka"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-028",
+          "title": "World Champion",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "World Champion: Place third or higher on a Blitzball Tournament."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-029",
+          "title": "Jupiter Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Jupiter Crest: You already got this at \\[Stadium - Locker Room\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-030",
+          "title": "Jupiter Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Jupiter Sigil: Get 1st place on a League again after you get all of Wakka's Overdrives."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Do note the Sigil has a 50% chance of being a reward so check before committing."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Yuna"
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-031",
+          "title": "Nirvana",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Nirvana: You already got this by capturing all monsters in the \\[Calm Lands\\] for the Monster Arena."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-032",
+          "title": "Moon Crest",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Moon Crest: You already got this at \\[Besaid\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-033",
+          "title": "Moon Sigil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Moon Sigil: Get all Aeons and defeat Belgemine in every Pokemon battle."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-034",
+          "title": "Anima",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Anima: You already got her at \\[Baaj Temple\\] after looting the treasure from every Cloister of Trial's Destruction Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-035",
+          "title": "Yojimbo",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Yojimbo: You already got him at \\[Cavern of the Stolen Fayth\\]."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "celestial-weapons-036",
+          "title": "Magus Sisters",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Magus Sisters: Behind Belgemine at \\[Remiem Temple\\] with the two items below. Flower Scepter: Defeat Belgemine's Bahamut. Blossom Crown: Capture all monsters in \\[Mt. Gagazet\\] for the Monster Arena."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 36
+    },
+    {
+      "id": "overdrives",
+      "title": "Overdrives",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Mode"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "By far the most annoying grind in the entire game in my opinion, also the most useless one. So, Overdrive Modes are unlocked after fulfilling their conditions a number of times per each party member while fighting outside of the Monster Arena cause **** you. For example: Yuna learns the Healer Mode faster than anyone else by healing allies, while Auron learns Coward Mode slower than anyone else by fleeing from combat. I will not bother listing the number of times, but do know that most modes expect around a hundred, with the longest grind being Auron's Coward which needs a nice 1,000 repetitions."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-001",
+          "title": "Stoic",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Stoic: Character takes damage."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-002",
+          "title": "Warrior",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Warrior: Character damages an enemy."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-003",
+          "title": "Comrade",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Comrade: Allies take damage."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-004",
+          "title": "Healer",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Healer: Character heals allies."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-005",
+          "title": "Tactician",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Tactician: Status attack succeeds."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-006",
+          "title": "Victim",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Victim: Character hit with status attack."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-007",
+          "title": "Dancer",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Dancer: Character evades attack."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-008",
+          "title": "Avenger",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Avenger: Allies are KO'd."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-009",
+          "title": "Slayer",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Slayer: Character defeats an enemy."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-010",
+          "title": "Hero",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Hero: Character defeats powerful enemy."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-011",
+          "title": "Rook",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Rook: Character magically blocks an attack."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-012",
+          "title": "Victor",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Victor: Party wins a battle."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-013",
+          "title": "Coward",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Coward: Character flees from battle."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-014",
+          "title": "Ally",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Ally: Character's turn."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-015",
+          "title": "Sufferer",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Sufferer: Character suffers status ailments."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-016",
+          "title": "Daredevil",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Daredevil: Character fights with low HP."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-017",
+          "title": "Loner",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Loner: Character fights alone."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "heading",
+          "text": "Overdrives"
+        },
+        {
+          "type": "heading",
+          "text": "Auron"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Obtain All Jecht Spheres."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Kimahri"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "We already got them all by using Lancet on specific monsters."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Rikku"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "She only gets -and needs- Mix. Here are some great recipes:"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-018",
+          "title": "Final Phoenix",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Final Phoenix: Phoenix Down + Shining Gem."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Full HP recovery while also reviving dead allies to full."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-019",
+          "title": "Final Elixir",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Final Elixir: Hi-Potion + Lv.1 Key Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Full HP and MP recovery while also reviving dead allies to full."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-020",
+          "title": "Ultra NulAll",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Ultra NulAll: Healing Spring + Healing Spring."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Cheer, Focus, Aim, Reflex, NulBlaze, NulShock, NulTide, and NulFrost on all allies."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-021",
+          "title": "Hyper Mighty G",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Hyper Mighty G: Healing Spring + Gambler's Spirit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Shell, Protect, Haste, Regen, and Auto-Life on all allies."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-022",
+          "title": "Trio of 9999",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "Trio of 9999: Gambler's Spirit + Gambler's Spirit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "All allies deal at least 9,999 on every action. Great for the early end-game."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tidus"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Use Spiral Cut 10 times, then Slice & Dice 30 times and finally Energy Rain 80 times."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lulu"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Get offensive spells at the Sphere Grid."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Wakka"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Get Attack Reels as a reward in a Blitzball Tournament, then fight 250 battles outside of the Monster Arena with Wakka to get Status Reels in a Blitzball League. Fight another 450 battles to find the Auroch Reels in another Blitzball Tournament."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Yuna"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Recruit all aeons. Jecht Spheres"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "overdrives-023",
+          "title": "1. Macalania Woods - Spring: Story related.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "1. Macalania Woods - Spring: Story related."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-024",
+          "title": "2. Besaid Village: To the right of the temple.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "2. Besaid Village: To the right of the temple."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-025",
+          "title": "3. S.S. Liki - Captain's Bridge: While travelling between Kilika an…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "3. S.S. Liki - Captain's Bridge: While travelling between Kilika and Besaid."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-026",
+          "title": "4. Luca: At Stadium - Basement A.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "4. Luca: At Stadium - Basement A."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-027",
+          "title": "5. Mi'ihen Highroad - Oldroad, South: At the dead end after the Sav…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "5. Mi'ihen Highroad - Oldroad, South: At the dead end after the Save Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-028",
+          "title": "6. Mushroom Rock - Precipice: South of the Save Sphere by the eleva…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "6. Mushroom Rock - Precipice: South of the Save Sphere by the elevator to where Operation Mi'ihen took place."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-029",
+          "title": "7. Moonflow - South Wharf: By the Save Sphere.",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "7. Moonflow - South Wharf: By the Save Sphere."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-030",
+          "title": "8. Thunder Plains - South: By the second to last lightning rod befo…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "8. Thunder Plains - South: By the second to last lightning rod before the Agency."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-031",
+          "title": "9. Macalania Woods - South: Take a right as soon as you enter the a…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "9. Macalania Woods - South: Take a right as soon as you enter the area, right before Lucil and Elma."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "overdrives-032",
+          "title": "10. Mt. Gagazet - Mountain Trail: Hug the right wall after the grav…",
+          "optional": true,
+          "missable": false,
+          "category": "Step",
+          "richText": [
+            {
+              "type": "text",
+              "text": "10. Mt. Gagazet - Mountain Trail: Hug the right wall after the grave dedicated to the summoners that failed the pilgrimage."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 32
+    },
+    {
+      "id": "blitzball",
+      "title": "Blitzball",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Blitzball Team"
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "There are a ton of players you can recruit and even more combinations that can be considered great, I use the team below. Position Player Location Comment"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "blitzball-011",
+          "title": "LF",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Tidus¹ ??? I'm sure you can find this guy if you look hard enough..."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-012",
+          "title": "RF",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Wakka² Airship - Bridge I use Wakka exclusively cause he is Wakka and we are doing this for his Overdrives and Celestial Weapon, but he is very meh. Its kinda dickish to bench Wakka for Nedus tho', just sayin'..."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-013",
+          "title": "RF",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Nedus¹ Luca Harbor - Number 1 Dock"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-014",
+          "title": "MF",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Brother¹ Airship - Bridge Supposedly falls short at the highest levels, but by then he is my bro(ther) so... Replace with Linna if you don't have a heart."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-015",
+          "title": "MF",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Linna² Macalania Temple - Frozen Road"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-016",
+          "title": "LD",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Ropp¹ Mi'ihen Highroad - Agency"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-017",
+          "title": "RD",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Wedge Luca Stadium - Main Gate Great defense early but should be replaced with Kulukan sooner or later."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-018",
+          "title": "RD",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Kulukan¹ Kilika Port - Tavern"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-019",
+          "title": "GL",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Jumal Luca Seaport - Square Only good for early game. Replace with Nimrook."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-020",
+          "title": "GL",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Nimrook¹ Airship - Corridor ¹ Team Member. ² Bench Warmer."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-021",
+          "title": "Refresh Prizes",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Prizes are picked from a random pool when you first view them, so you can save before checking a new Tournament for the first time and reload until it has whatever you want. Most likely a Wakka-related goodie. Amongst the non-Wakka rewards its worth mentioning the Jecht Shot 2, but you need to have learned all three of Tidus' Key Techniques to get it, otherwise you forfeit the reward."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-022",
+          "title": "Recruit Busy Players",
+          "optional": true,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Save when a player's contract is 1 and have a match, if the team they play for decides to renew them just reload."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-023",
+          "title": "Durren",
+          "optional": false,
+          "missable": true,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Not only does he have the nerve to be the only missable player in the entirety of Spira, but he also happens to be the worst player in the game due to his stats never surpassing 33. **** Durren, all my homies hate Durren."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-001",
+          "title": "LF — Tidus¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "LF — Tidus¹ @ ??? — I'm sure you can find this guy if you look hard enough..."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-002",
+          "title": "RF — Wakka²",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "RF — Wakka² @ Airship - Bridge — I use Wakka exclusively cause he is Wakka and we are doing this for his Overdrives and Celestial Weapon, but he is very meh. Its kinda dickish to bench Wakka for Nedus tho', just sayin'..."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-003",
+          "title": "RF — Nedus¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "RF — Nedus¹ @ Luca Harbor - Number 1 Dock"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-004",
+          "title": "MF — Brother¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "MF — Brother¹ @ Airship - Bridge — Supposedly falls short at the highest levels, but by then he is my bro(ther) so... Replace with Linna if you don't have a heart."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-005",
+          "title": "MF — Linna²",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "MF — Linna² @ Macalania Temple - Frozen Road"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-006",
+          "title": "LD — Ropp¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "LD — Ropp¹ @ Mi'ihen Highroad - Agency"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-007",
+          "title": "RD — Wedge",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "RD — Wedge @ Luca Stadium - Main Gate — Great defense early but should be replaced with Kulukan sooner or later."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-008",
+          "title": "RD — Kulukan¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "RD — Kulukan¹ @ Kilika Port - Tavern"
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-009",
+          "title": "GL — Jumal",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "GL — Jumal @ Luca Seaport - Square — Only good for early game. Replace with Nimrook."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "blitzball-010",
+          "title": "GL — Nimrook¹",
+          "optional": false,
+          "missable": false,
+          "category": "Blitzball",
+          "richText": [
+            {
+              "type": "text",
+              "text": "GL — Nimrook¹ @ Airship - Corridor"
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 23
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Dark Aeons"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bosses-001",
+          "title": "\\[Besaid Village\\] Dark Valefor.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Besaid Village\\] Dark Valefor."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bosses-002",
+          "title": "\\[Sanubia Desert - West\\] Dark Ifrit.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Sanubia Desert - West\\] Dark Ifrit."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bosses-003",
+          "title": "\\[Thunder Plains - North\\] Dark Ixion.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Thunder Plains - North\\] Dark Ixion."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "You need to defeat him twice."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bosses-004",
+          "title": "\\[Macalania - Road\\] Dark Shiva.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Macalania - Road\\] Dark Shiva."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bosses-005",
+          "title": "\\[Dome - The Beyond\\] Dark Bahamut.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Dome - The Beyond\\] Dark Bahamut."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "item",
+          "id": "bosses-006",
+          "title": "\\[Gagazet - Mountain Gate\\] Dark Anima.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Gagazet - Mountain Gate\\] Dark Anima."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "You need to throw the blitzball at \\[Gagazet - Mountain Cave\\] for it to show up."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bosses-007",
+          "title": "\\[Cavern of the Stolen Fayth\\] Dark Yojimbo.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Cavern of the Stolen Fayth\\] Dark Yojimbo."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "You need to defeat him five times, you can save but not leave the area or teleport."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bosses-008",
+          "title": "\\[Mushroom Rock\\] Dark Magus Sisters.",
+          "optional": false,
+          "missable": false,
+          "category": null,
+          "richText": [
+            {
+              "type": "text",
+              "text": "\\[Mushroom Rock\\] Dark Magus Sisters."
+            }
+          ],
+          "images": []
+        },
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Penance You can choose him as a location after defeating all the Dark Aeons."
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "id": "bosses-009",
+          "title": "Item (Various)",
+          "optional": false,
+          "missable": true,
+          "category": "Item",
+          "richText": [
+            {
+              "type": "text",
+              "text": "⚠ Item (Various): Penance has a 50% chance to drop unique missable weapons with Break Damage Limit and Critical Bonus."
+            }
+          ],
+          "images": []
+        }
+      ],
+      "itemCount": 9
+    },
+    {
+      "id": "ffx-2-introduction",
+      "title": "FFX-2: Introduction",
+      "warning": null,
+      "blocks": [
+        {
+          "type": "note",
+          "richText": [
+            {
+              "type": "text",
+              "text": "Work in Progress..."
+            }
+          ]
+        }
+      ],
+      "itemCount": 0
+    }
+  ]
+}

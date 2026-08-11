@@ -1,0 +1,11 @@
+{
+  "name": "Missables Tracker",
+  "author": "Humberto",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["missables", "checklist", "rpg", "guide"],
+    "description": "Track missable and optional content for supported games. Bundled Final Fantasy IX guide data with collapsible sessions, checkmarks, and rich text.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/377840/header.jpg"
+  }
+}
